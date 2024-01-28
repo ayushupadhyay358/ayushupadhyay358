@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushupadhyay358
-- 👀 I’m interested in Software Development and Testing.
-- 🌱 I’m currently learning SQL and Java.
-- 💞️ I’m looking to collaborate on basic open source C++ projects.
+- 👀 I’m interested in Salesforce Development and Administration.
+- 🌱 I’m currently working on creating Apex Classes, Triggers and Lightning Web Components.
+- 💞️ I’m looking to collaborate on basic open source Salesforce projects.
 - 📫 How to reach me - Mail-> ayushupadhyay358@gmail.com
 
 <!---
